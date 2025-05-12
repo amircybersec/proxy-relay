@@ -1,0 +1,12 @@
+server:
+  tcp_listen_address: 0.0.0.0:8080
+  udp_listen_address: 0.0.0.0:9000
+
+soax:
+  mobile_package_id: 582471
+  mobile_package_key: xxxxxxxxxx
+  residential_package_id: 125468
+  residential_package_key: xxxxxxxxx
+
+credentials:
+  user-a: password-a
